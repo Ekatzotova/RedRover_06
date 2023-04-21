@@ -1,2 +1,2 @@
 print('Hello world!')
-print('It's my first poject!')
+print('It is my first project!')
